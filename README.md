@@ -1,2 +1,2 @@
 # java
-learing java
+learning java
